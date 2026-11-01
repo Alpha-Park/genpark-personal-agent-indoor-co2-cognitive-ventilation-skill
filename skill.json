@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-indoor-co2-cognitive-ventilation-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Indoor CO2 Cognitive Ventilation - Zero-dependency indoor air mass balance differential equation modeler, Satish cognitive performance impairment calculator, and ventilation purge scheduler.",
+  "tools": [
+    "forecast_indoor_co2_accumulation",
+    "evaluate_co2_cognitive_performance_impairment",
+    "calculate_optimal_ventilation_purge_window"
+  ]
+}
